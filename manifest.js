@@ -20,7 +20,6 @@
 	"http://szr.goo-inside.me/evo/alphas/Savaged-Zen(MOD)-Alpha1.zip"
         ]
     },
-    // And here's another, older ROM!
     {
         name: "Savaged-Zen(MOD) Alpha 2",
         summary: "Alpha build 002",
