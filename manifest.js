@@ -17,7 +17,7 @@
         ],
 	urls:
         [
-	"http://szr.goo-inside.me/evo/alphas/Savaged-Zen(MOD)-Alpha1.zip"
+	"http://szr.goo-inside.me/evo/alphas/Savaged-Zen(MOD)Alpha1.zip"
         ]
     },
     {
@@ -33,7 +33,7 @@
         ],
         urls:
         [
-        "http://szr.goo-inside.me/evo/alphas/Savaged-Zen(MOD)-Alpha2.zip"
+        "http://szr.goo-inside.me/evo/alphas/Savaged-Zen(MOD)Alpha2.zip"
         ]
     }
     ]
