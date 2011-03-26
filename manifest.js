@@ -42,15 +42,16 @@
         device: "supersonic",
         product: "Savaged-Zen(MOD)",
         incremental: 0003,
-        modversion: "SavagedZen(MOD)-RC1-Evo4G",
+        modversion: "SavagedZen(MOD)-Evo4G-RC1",
         screenshots:
         [
         "http://szr.goo-inside.me/screenshots/CAP201103121448.jpg"
         ],
         urls:
         [
-        "http://mirror.munkibizness.com/files/rom/SavagedZen%28MOD%29-RC1-Evo4G.zip"
+        "http://mirror.munkibizness.com/files/rom/SavagedZen(MOD)-RC1-Evo4G.zip"
         ]
     }
     ]
 }
+
