@@ -36,5 +36,21 @@
         "http://szr.goo-inside.me/evo/alphas/Savaged-Zen(MOD)Alpha2.zip"
         ]
     }
+	    {
+        name: "Savaged-Zen(MOD) RC1",
+        summary: "RC1",
+        device: "supersonic",
+        product: "Savaged-Zen(MOD)",
+        incremental: 0003,
+        modversion: "SavagedZen(MOD)-RC1-Evo4G",
+        screenshots:
+        [
+        "http://szr.goo-inside.me/screenshots/CAP201103121448.jpg"
+        ],
+        urls:
+        [
+        "http://mirror.munkibizness.com/files/rom/SavagedZen%28MOD%29-RC1-Evo4G.zip"
+        ]
+    }
     ]
 }
