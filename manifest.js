@@ -12,12 +12,12 @@
         "incremental": "0001",
         "modversion": "SavagedZen(MOD)-Evo4G-Alpha1",
         "screenshots": "http://szr.goo-inside.me/screenshots/CAP201103121448.jpg",
-        "urls": "http://szr.goo-inside.me/evo/alphas/Savaged-Zen(MOD)Alpha1.zip",
+        "url": "http://szr.goo-inside.me/evo/alphas/Savaged-Zen(MOD)Alpha1.zip",
         "addons":
         [
         {
             "name": "Google Apps",
-            "urls": "http://goo-inside.me/gapps/gapps-gb-20110307-signed.zip"
+            "url": "http://goo-inside.me/gapps/gapps-gb-20110307-signed.zip"
         }
         ]
     },
@@ -29,12 +29,12 @@
         "incremental": "0002",
         "modversion": "SavagedZen(MOD)-Evo4G-Alpha2",
         "screenshots": "http://szr.goo-inside.me/screenshots/CAP201103121448.jpg",
-        "urls": "http://szr.goo-inside.me/evo/alphas/Savaged-Zen(MOD)Alpha2.zip",
+        "url": "http://szr.goo-inside.me/evo/alphas/Savaged-Zen(MOD)Alpha2.zip",
         "addons":
         [
         {
             "name": "Google Apps",
-            "urls": "http://goo-inside.me/gapps/gapps-gb-20110307-signed.zip"
+            "url": "http://goo-inside.me/gapps/gapps-gb-20110307-signed.zip"
         }
         ]
     },
@@ -46,12 +46,12 @@
         "incremental": "0003",
         "modversion": "SavagedZen(MOD)-Evo4G-RC1",
         "screenshots": "http://szr.goo-inside.me/screenshots/CAP201103121448.jpg",
-        "urls": "http://mirror.munkibizness.com/files/rom/SavagedZen(MOD)-RC1-Evo4G.zip",
+        "url": "http://mirror.munkibizness.com/files/rom/SavagedZen(MOD)-RC1-Evo4G.zip",
         "addons":
         [
         {
             "name": "Google Apps",
-            "urls": "http://goo-inside.me/gapps/gapps-gb-20110307-signed.zip"
+            "url": "http://goo-inside.me/gapps/gapps-gb-20110307-signed.zip"
         }
         ]
     }
