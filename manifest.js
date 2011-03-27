@@ -14,10 +14,12 @@
         "screenshots": "http://szr.goo-inside.me/screenshots/CAP201103121448.jpg",
         "urls": "http://szr.goo-inside.me/evo/alphas/Savaged-Zen(MOD)Alpha1.zip",
         "addons":
+        [
         {
             "name": "Google Apps",
             "urls": "http://goo-inside.me/gapps/gapps-gb-20110307-signed.zip"
         }
+        ]
     },
     {
         "name": "Savaged-Zen(MOD) Alpha 2",
@@ -29,10 +31,12 @@
         "screenshots": "http://szr.goo-inside.me/screenshots/CAP201103121448.jpg",
         "urls": "http://szr.goo-inside.me/evo/alphas/Savaged-Zen(MOD)Alpha2.zip",
         "addons":
+        [
         {
             "name": "Google Apps",
             "urls": "http://goo-inside.me/gapps/gapps-gb-20110307-signed.zip"
         }
+        ]
     },
     {
         "name": "Savaged-Zen(MOD) RC1",
@@ -44,10 +48,12 @@
         "screenshots": "http://szr.goo-inside.me/screenshots/CAP201103121448.jpg",
         "urls": "http://mirror.munkibizness.com/files/rom/SavagedZen(MOD)-RC1-Evo4G.zip",
         "addons":
+        [
         {
             "name": "Google Apps",
             "urls": "http://goo-inside.me/gapps/gapps-gb-20110307-signed.zip"
         }
+        ]
     }
     ]
 }
