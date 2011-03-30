@@ -11,8 +11,8 @@
         "product": "Savaged-Zen(MOD)",
         "incremental": "0001",
         "modversion": "SavagedZen(MOD)-Evo4G-Alpha1",
-        "screenshots": "http://szr.goo-inside.me/screenshots/CAP201103121448.jpg",
-        "url": "http://szr.goo-inside.me/evo/alphas/Savaged-Zen(MOD)Alpha1.zip",
+        "screenshots": "http://sz.goo-inside.me/screenshots/CAP201103121448.jpg",
+        "url": "http://sz.goo-inside.me/evo/rom/alphas/Savaged-Zen(MOD)-Alpha1.zip",
         "addons":
         [
         {
@@ -28,8 +28,8 @@
         "product": "Savaged-Zen(MOD)",
         "incremental": "0002",
         "modversion": "SavagedZen(MOD)-Evo4G-Alpha2",
-        "screenshots": "http://szr.goo-inside.me/screenshots/CAP201103121448.jpg",
-        "url": "http://szr.goo-inside.me/evo/alphas/Savaged-Zen(MOD)Alpha2.zip",
+        "screenshots": "http://sz.goo-inside.me/screenshots/CAP201103121448.jpg",
+        "url": "http://sz.goo-inside.me/evo/rom/alphas/Savaged-Zen(MOD)Alpha2.zip",
         "addons":
         [
         {
@@ -45,8 +45,8 @@
         "product": "Savaged-Zen(MOD)",
         "incremental": "0003",
         "modversion": "SavagedZen(MOD)-Evo4G-RC1",
-        "screenshots": "http://szr.goo-inside.me/screenshots/CAP201103121448.jpg",
-        "url": "http://mirror.munkibizness.com/files/rom/SavagedZen(MOD)-RC1-Evo4G.zip",
+        "screenshots": "http://sz.goo-inside.me/screenshots/CAP201103121448.jpg",
+        "url": "http://sz.goo-inside.me/evo/rom/RC/SavagedZen(MOD)-RC1-Evo4G.zip",
         "addons":
         [
         {
@@ -57,4 +57,3 @@
     }
     ]
 }
-
