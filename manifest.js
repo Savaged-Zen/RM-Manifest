@@ -5,14 +5,14 @@
     "roms":
     [
     {
-        "name": "Savaged-Zen(MOD) Alpha 1",
-        "summary": "Alpha build 001",
+        "name": "Savaged-Zen(MOD) RC1",
+        "summary": "Release Candidate",
         "device": "supersonic",
         "product": "Savaged-Zen(MOD)",
-        "incremental": "0001",
-        "modversion": "SavagedZen(MOD)-Evo4G-Alpha1",
+        "incremental": "0003",
+        "modversion": "SavagedZen(MOD)-Evo4G-RC1",
         "screenshots": "http://sz.goo-inside.me/screenshots/CAP201103121448.jpg",
-        "url": "http://sz.goo-inside.me/evo/rom/alphas/Savaged-Zen(MOD)-Alpha1.zip",
+        "url": "http://sz.goo-inside.me/evo/rom/RC/SavagedZen(MOD)-RC1-Evo4G.zip",
         "addons":
         [
         {
@@ -23,7 +23,7 @@
     },
     {
         "name": "Savaged-Zen(MOD) Alpha 2",
-        "summary": "Alpha build 002",
+        "summary": "Alpha Build",
         "device": "supersonic",
         "product": "Savaged-Zen(MOD)",
         "incremental": "0002",
@@ -39,14 +39,15 @@
         ]
     },
     {
-        "name": "Savaged-Zen(MOD) RC1",
-        "summary": "RC1",
+
+        "name": "Savaged-Zen(MOD) Alpha 1",
+        "summary": "Alpha Build",
         "device": "supersonic",
         "product": "Savaged-Zen(MOD)",
-        "incremental": "0003",
-        "modversion": "SavagedZen(MOD)-Evo4G-RC1",
+        "incremental": "0001",
+        "modversion": "SavagedZen(MOD)-Evo4G-Alpha1",
         "screenshots": "http://sz.goo-inside.me/screenshots/CAP201103121448.jpg",
-        "url": "http://sz.goo-inside.me/evo/rom/RC/SavagedZen(MOD)-RC1-Evo4G.zip",
+        "url": "http://sz.goo-inside.me/evo/rom/alphas/Savaged-Zen(MOD)-Alpha1.zip",
         "addons":
         [
         {
