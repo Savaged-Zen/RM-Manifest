@@ -173,7 +173,7 @@
         "summary": "CFS, HAVS, No SBC, Gingerbread",
         "device": "inc",
         "product": "Savaged-ZenKernel",
-        "incremental": "000021110",
+        "incremental": "00021110",
         "url": "http://sz.goo-inside.me/inc/kernel/SavagedZen-INC-0.0.2-CFS-HAVS-GB-noSBC-signed.zip"
     },
     {
