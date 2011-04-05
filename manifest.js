@@ -4,6 +4,7 @@
     "donate": "https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=SHYT7HAG2H2GC",
     "roms":
     [
+    // EVO ROMs
     {
         "name": "Savaged-Zen(MOD) RC1",
         "summary": "Release Candidate",
@@ -39,7 +40,6 @@
         ]
     },
     {
-
         "name": "Savaged-Zen(MOD) Alpha 1",
         "summary": "Alpha Build",
         "device": "supersonic",
@@ -55,6 +55,133 @@
             "url": "http://goo-inside.me/gapps/gapps-gb-20110307-signed.zip"
         }
         ]
+    },
+    // Inc ROMs
+    
+    // EVO Kernels
+    // Incrementals go (four-digit version number)(BFS1/CFS0)(GB1/Froyo0)(HAVS1/NoHAVS0)(SBC1/NoSBC0)
+    {
+        "name": "Savaged-Zen Kernel 1.0.1",
+        "summary": "CFS HAVS SBC Gingerbread",
+        "device": "supersonic",
+        "product": "Savaged-ZenKernel",
+        "incremental": "01010111",
+        "url": "http://sz.goo-inside.me/evo/kernel/SavagedZen-1.0.1-CFS-HAVS-WiMAX-GB-signed.zip"
+    },
+    {
+        "name": "Savaged-Zen Kernel 1.0.1",
+        "summary": "BFS HAVS SBC Gingerbread",
+        "device": "supersonic",
+        "product": "Savaged-ZenKernel",
+        "incremental": "01011111",
+        "url": "http://sz.goo-inside.me/evo/kernel/SavagedZen-1.0.1-BFS-HAVS-WiMAX-GB-signed.zip"
+    },
+    {
+        "name": "Savaged-Zen Kernel 1.0.0",
+        "summary": "CFS HAVS SBC Gingerbread",
+        "device": "supersonic",
+        "product": "Savaged-ZenKernel",
+        "incremental": "01000111",
+        "url": "http://sz.goo-inside.me/evo/kernel/SavagedZen-1.0.0-BFS-HAVS-WiMAX-GB-signed.zip"
+    },
+    {
+        "name": "Savaged-Zen Kernel 1.0.0",
+        "summary": "BFS HAVS SBC Gingerbread",
+        "device": "supersonic",
+        "product": "Savaged-ZenKernel",
+        "incremental": "01001111",
+        "url": "http://sz.goo-inside.me/evo/kernel/SavagedZen-1.0.0-CFS-HAVS-WiMAX-GB-signed.zip"
+    },
+    {
+        "name": "Savaged-Zen Kernel 0.2.1",
+        "summary": "CFS HAVS SBC Gingerbread",
+        "device": "supersonic",
+        "product": "Savaged-ZenKernel",
+        "incremental": "00210111",
+        "url": "http://sz.goo-inside.me/evo/kernel/SavagedZen-0.2.1-CFS-HAVS-WiMAX-GB-signed.zip"
+    },
+    {
+        "name": "Savaged-Zen Kernel 0.2.1",
+        "summary": "BFS HAVS SBC Gingerbread",
+        "device": "supersonic",
+        "product": "Savaged-ZenKernel",
+        "incremental": "00211111",
+        "url": "http://sz.goo-inside.me/evo/kernel/SavagedZen-0.2.1-BFS-HAVS-WiMAX-GB-signed.zip"
+    },
+    {
+        "name": "Savaged-Zen Kernel 0.2.1",
+        "summary": "CFS HAVS SBC Froyo",
+        "device": "supersonic",
+        "product": "Savaged-ZenKernel",
+        "incremental": "00210011",
+        "url": "http://sz.goo-inside.me/evo/kernel/SavagedZen-0.2.1-CFS-HAVS-WiMAX-FROYO-signed.zip"
+    },
+    {
+        "name": "Savaged-Zen Kernel 0.2.1",
+        "summary": "BFS HAVS SBC Froyo",
+        "device": "supersonic",
+        "product": "Savaged-ZenKernel",
+        "incremental": "00211011",
+        "url": "http://sz.goo-inside.me/evo/kernel/SavagedZen-0.2.1-BFS-HAVS-WiMAX-FROYO-signed.zip"
+    },
+    {
+        "name": "Savaged-Zen Kernel 0.2.0",
+        "summary": "CFS HAVS SBC Gingerbread",
+        "device": "supersonic",
+        "product": "Savaged-ZenKernel",
+        "incremental": "00200111",
+        "url": "http://sz.goo-inside.me/evo/kernel/SavagedZen-0.2.0-CFS-HAVS-WiMAX-GB-signed.zip"
+    },
+    {
+        "name": "Savaged-Zen Kernel 0.2.0",
+        "summary": "BFS HAVS SBC Gingerbread",
+        "device": "supersonic",
+        "product": "Savaged-ZenKernel",
+        "incremental": "00201111",
+        "url": "http://sz.goo-inside.me/evo/kernel/SavagedZen-0.2.0-BFS-HAVS-WiMAX-GB-signed.zip"
+    },
+    {
+        "name": "Savaged-Zen Kernel 0.2.0",
+        "summary": "CFS HAVS SBC Froyo",
+        "device": "supersonic",
+        "product": "Savaged-ZenKernel",
+        "incremental": "00200011",
+        "url": "http://sz.goo-inside.me/evo/kernel/SavagedZen-0.2.0-CFS-HAVS-WiMAX-FROYO-signed.zip"
+    },
+    {
+        "name": "Savaged-Zen Kernel 0.2.0",
+        "summary": "BFS HAVS SBC Froyo",
+        "device": "supersonic",
+        "product": "Savaged-ZenKernel",
+        "incremental": "00201011",
+        "url": "http://sz.goo-inside.me/evo/kernel/SavagedZen-0.2.0-BFS-HAVS-WiMAX-FROYO-signed.zip"
+    },
+    // Inc Kernels
+    // Incrementals use same method as EVO kernels
+    // (four-digit version number)(BFS1/CFS0)(GB1/Froyo0)(HAVS1/NoHAVS0)(SBC1/NoSBC0)
+    {
+        "name": "Savaged-Zen Kernel 1.0.1",
+        "summary": "BFS HAVS Gingerbread",
+        "device": "inc",
+        "product": "Savaged-ZenKernel",
+        "incremental": "0101111",
+        "url": "http://sz.goo-inside.me/inc/kernel/"
+    },
+    {
+        "name": "Savaged-Zen Kernel 0.0.2",
+        "summary": "CFS, HAVS, no SBC, Gingerbread",
+        "device": "inc",
+        "product": "Savaged-ZenKernel",
+        "incremental": "00020110",
+        "url": "http://sz.goo-inside.me/inc/kernel/SavagedZen-INC-0.0.2-CFS-HAVS-GB-noSBC-signed.zip"
+    },
+    {
+        "name": "Savaged-Zen Kernel 0.0.1",
+        "summary": "CFS, HAVS, no SBC, Gingerbread",
+        "device": "inc",
+        "product": "Savaged-ZenKernel",
+        "incremental": "00010110",
+        "url": "http://sz.goo-inside.me/inc/kernel/SavagedZen-INC-0.0.1-CFS-HAVS-GB-signed.zip"
     }
     ]
 }

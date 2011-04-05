@@ -1,2 +1,8 @@
 This repo will contain all of the files relating to the ROM Manager
 manifest for the Savaged-Zen ROM and kernels.
+
+Don't yell at DrMacinyasha if an SBC kernel explodes your battery,
+just because he made the commit that added said kernel to ROM Manager,
+and you decided to flash it without reading up first. Likewise, don't
+yell at Koush just because he makes ROM Manager. He makes the app, but
+not the manifests that it loads. Plzkthnxbai.
