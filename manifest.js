@@ -5,6 +5,23 @@
     "roms":
     [
     {
+        "name": "Savaged-Zen(MOD) RC2",
+        "summary": "Release Candidate",
+        "device": "supersonic",
+        "product": "Savaged-Zen(MOD)",
+        "incremental": "0004",
+        "modversion": "SavagedZen(MOD)-Evo4G-RC2",
+        "screenshots": "http://sz.goo-inside.me/screenshots/CAP201103121448.jpg",
+        "url": "http://sz.goo-inside.me/evo/rom/RC/SavagedZen(MOD)-RC2-Evo4G.zip",
+        "addons":
+        [
+        {
+            "name": "Google Apps",
+            "url": "http://goo-inside.me/gapps/gapps-gb-20110307-signed.zip"
+        }
+        ]
+    },
+    {
         "name": "Savaged-Zen(MOD) RC1",
         "summary": "Release Candidate",
         "device": "supersonic",
