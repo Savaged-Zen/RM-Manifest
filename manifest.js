@@ -17,7 +17,7 @@
         [
         {
             "name": "Google Apps",
-            "url": "http://goo-inside.me/gapps/gapps-gb-20110307-signed.zip"
+            "url": "http://sz.goo-inside.me/gapps/sz-gapps-20110410.zip"
         }
         ]
     },
@@ -34,7 +34,7 @@
         [
         {
             "name": "Google Apps",
-            "url": "http://goo-inside.me/gapps/gapps-gb-20110307-signed.zip"
+            "url": "http://sz.goo-inside.me/gapps/sz-gapps-20110410.zip"
         }
         ]
     },
@@ -68,7 +68,7 @@
         [
         {
             "name": "Google Apps",
-            "url": "http://goo-inside.me/gapps/gapps-gb-20110307-signed.zip"
+            "url": "http://sz.goo-inside.me/gapps/sz-gapps-20110410.zip"
         }
         ]
     },
